@@ -1,0 +1,72 @@
+{
+    "formatVersion": 1,
+    "name": "LWJGL 2",
+    "uid": "org.lwjgl",
+    "versions": [
+        {
+            "conflicts": [
+                {
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "recommended": false,
+            "releaseTime": "2017-04-12T09:30:50+00:00",
+            "sha256": "1faa94522689245a991fc4fea5c9dd6222f92cde34999e263ebe87a2edb8aea3",
+            "type": "release",
+            "version": "2.9.4-nightly-20150209",
+            "volatile": true
+        },
+        {
+            "conflicts": [
+                {
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "recommended": false,
+            "releaseTime": "2015-01-26T15:03:24+00:00",
+            "sha256": "43c665cc90517954a3d9a671eee783d226de9f7335e104f7c6a25e1f390dae22",
+            "type": "release",
+            "version": "2.9.3",
+            "volatile": true
+        },
+        {
+            "conflicts": [
+                {
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "recommended": false,
+            "releaseTime": "2014-04-14T14:36:19+00:00",
+            "sha256": "be9e7ac96da952c9461d6f08e5a4e4e0ffcc2dafba291b48ed430269a9af0497",
+            "type": "release",
+            "version": "2.9.1",
+            "volatile": true
+        },
+        {
+            "conflicts": [
+                {
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "recommended": false,
+            "releaseTime": "2013-11-26T18:36:08+00:00",
+            "sha256": "9523dbeb18d81a1ada6a0db7ae1f21e78e73da93c3a33290c7f73dd63a03a4dc",
+            "type": "release",
+            "version": "2.9.1-nightly-20131120",
+            "volatile": true
+        },
+        {
+            "conflicts": [
+                {
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "recommended": false,
+            "releaseTime": "2013-09-06T12:31:58+00:00",
+            "sha256": "ad7ca486392c6c4da6877f5fcd50ff64b9a7589eacb951974c220ec5057a8273",
+            "type": "release",
+            "version": "2.9.0",
+            "volatile": true
+        }
+    ]
+}
